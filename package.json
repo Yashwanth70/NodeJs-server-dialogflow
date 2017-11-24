@@ -2,9 +2,9 @@
   "name": "NodeJs-server-dialogflow",
   "version": "1.0.0",
   "description": "Server providing response to dialogflow webhook",
-  "main": "index.js",
+  "main": "index1.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index1.js"
   },
   "author": "Yashwanth Kumar",
   "dependencies": {
