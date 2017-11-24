@@ -10,7 +10,7 @@ This simple app will help you understand
 
 # How it works?
 - Push this app to Heroku
-- Test the API https://webhook-echo-sample.herokuapp.com/echo - use www.hurl.it to test it
+- Test the API https://nodejs-server-dialogflow.herokuapp.com/getOrganizationDetails - use www.hurl.it to test it
 
 Open API.AI portal - https://api.ai
 - Create an account and login
