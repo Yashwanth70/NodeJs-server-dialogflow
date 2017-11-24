@@ -1,0 +1,6 @@
+{
+  "name": "NodeJs-server-dialogflow",
+  "description": "Server providing response to dialogflow webhook",
+  "repository": "https://github.com/Yashwanth70/NodeJs-server-dialogflow.git",
+  "keywords": ["api.ai", "natural language","NodeJS","Dialogflow","Webhook"]
+}
