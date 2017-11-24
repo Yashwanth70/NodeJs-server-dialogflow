@@ -15,7 +15,7 @@ app.post('/', function(req, res) {
     request.get({
           url: 'https://10to8.com/api/booking/v2/organisation/',
           headers: {
-            'Authorization': 'Token rm5hjsDaSWhkWLX3cAP-FKvo7YEvWDH9YyMVF9cRrEGA5X3_t2uNTOVyhZqI'
+            'Authorization': 'api key'
           }
         }, function(error, response, body) {
             var info = JSON.parse(body);
